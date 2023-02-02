@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 - 🔨 &nbsp; I like to bild stuff. From woodworking, to hardware and software. 
 
 
-### a few stats
-
 <!-- themes can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
