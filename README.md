@@ -4,7 +4,7 @@
 
 - 🏠 &nbsp; I live in Rennes, France
 
-- 🔨 &nbsp; I like to bild stuff. From woodworking, to hardware and software. 
+- 🔨 &nbsp; I like to build stuff. From woodworking, to hardware and software. 
 
 
 <!-- themes can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
